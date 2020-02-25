@@ -1,0 +1,1 @@
+# create-an-ec2-instance-than-give-the-tag-name-and-than-terminate-it-by-using-python
